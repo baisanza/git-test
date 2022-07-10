@@ -10,5 +10,6 @@ public class GIt {
         System.out.println("Hello,git!");
         System.out.println("Hello,git2!");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
